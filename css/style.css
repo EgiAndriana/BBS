@@ -1,0 +1,42 @@
+body{
+	margin:0;
+	background:#CCCCCC;
+}
+.container{
+margin:0;
+padding-right:200px;
+padding-left:200px;
+}
+.header{
+height:150px;
+border:0px #000000 solid;
+background:#333333;
+box-shadow: 0 0 4px 2px #6b6b6d;
+}
+.headermenu{
+height:40px;
+width:820px;
+border:0px #000000 solid;
+background:#333;
+box-shadow: 0 0 4px 2px #6b6b6d;
+}
+.headermenu ul li a{
+	display: block;
+	text-decoration: none;
+	color: #fff;
+}
+
+li{
+color:#FFFFFF;
+float:left;
+padding-top:10px;
+padding-right:50px;
+font:Comic San Ms;
+list-style-type:none;
+}
+.content{
+border:5px solid #999;	
+height:440px;
+background:#999;
+box-shadow: 0 0 5px 2px #6b6b6d;
+}
